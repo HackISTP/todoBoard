@@ -1,5 +1,5 @@
 body {
-  background-image: url(./assets/images/asd.avif);
-  background-repeat: no-repeat;
+  background: url(./assets/images/asd.avif) no-repeat center fixed;
   background-size: cover;
+  height: 100vh;
 }

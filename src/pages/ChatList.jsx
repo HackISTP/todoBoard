@@ -91,7 +91,7 @@ const AppWrap = styled.div`
   width: 100%;
   height: 100%;
   display: flex;
-  flex-direction: column;
+  flex-direction: column-reverse;
   justify-content: center;
   text-align: center;
   align-items: center;
